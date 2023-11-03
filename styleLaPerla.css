@@ -1,0 +1,5 @@
+
+body {font-family:Times; margin:30px; background:#ffdead}
+h1 {font-family:Times; color:darkred; text-align:center;}
+p {font-family:Times;text-align:center}
+table, th, td {border: 1px solid black; font-family:Times; padding:6px}
