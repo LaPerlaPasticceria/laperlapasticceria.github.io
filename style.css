@@ -1,11 +1,11 @@
 
-body {font-family:Times; margin:30px; background:#DCDCDC; font-size: 10px } 
+body {font-family:Times; margin:30px; background:#DCDCDC; font-size: 13px } 
 
 h1 {font-family:Times; color:darkred; align:center;}
 
 p {font-family:Calibri; color:darkred; text-align:center;}
 
-table, th, td { border:1px solid black; border-collapse:collapse; font-family:Times font-size: 10px; color:darkred; padding:6px; text-align:center;}
+table, th, td { border:1px solid black; border-collapse:collapse; font-family:Times font-size: 13px; color:darkred; padding:6px; text-align:center;}
 
 /*classi*/
 .flex {max-width: 12%}
