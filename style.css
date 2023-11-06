@@ -22,4 +22,4 @@ table, th, td { border:1px solid black; border-collapse:collapse; font-family:Ti
 /* cambia colore parole, hover per quando metto il cursore del mouse sopra */
 .topnav a:hover {background-color: #ddd; color: black;}
 
-#posTab {right:25%;}
+#posTab {left:25%;}
