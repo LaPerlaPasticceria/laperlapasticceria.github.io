@@ -1,5 +1,5 @@
 
-body {font-family:Times; margin:30px auto; background:#DCDCDC; font-size: 13px; position:absolute;} 
+body {font-family:Times; margin:30px auto; background:#DCDCDC; font-size: 13px;} 
 
 h1 {font-family:Times; color:darkred; align:center;}
 
@@ -22,6 +22,4 @@ table, th, td { border:1px solid black; border-collapse:collapse; font-family:Ti
 /* cambia colore parole, hover per quando metto il cursore del mouse sopra */
 .topnav a:hover {background-color: #ddd; color: black;}
 
-#colonna-dx { float:right; width:760 px;margin:7px auto;position:absolute; top 0; right:0; width:315 px;}
-#colonna-sx { float:left; width:760 px;margin:7px auto; position:absolute; top 0; left:0; width:218 px;}
-#colonna-centrosx {float:left; width:760 px;margin:7px auto; margin:0 490px 0 220 px }
+
