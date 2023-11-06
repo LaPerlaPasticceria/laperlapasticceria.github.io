@@ -23,5 +23,5 @@ table, th, td { border:1px solid black; border-collapse:collapse; font-family:Ti
 .topnav a:hover {background-color: #ddd; color: black;}
 
 .colonna-dx { float:right; width:200 px;}
-.colonna-sx { float:left; width:200 px;}
+.colonna-sx { float:left; width:220 px;}
 .colonna-centrosx {float:left; width:600 px;}
