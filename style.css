@@ -1,11 +1,11 @@
 
-body {font-family:Times; margin:30px auto; background:#DCDCDC; font-size: 13px;} 
+body {font-family:Verdana; margin:30px auto; background:#DCDCDC; font-size: 13px;} 
 
-h1 {font-family:Times; color:darkred; align:center;}
+h1 {font-family:Verdana; color:darkred; align:center;}
 
-p {font-family:Calibri; color:darkred; text-align:center;}
+p {font-family:Verdana; color:darkred; text-align:center;}
 
-table, th, td { border:1px solid black; border-collapse:collapse; font-family:Times font-size: 13px; color:darkred; padding:6px; text-align:center;}
+table, th, td { border:1px solid black; border-collapse:collapse; font-family:Verdana font-size: 13px; color:darkred; padding:6px; text-align:center;}
 
 /*classi*/
 .flex {max-width: 12%}
@@ -23,7 +23,7 @@ table, th, td { border:1px solid black; border-collapse:collapse; font-family:Ti
 .topnav a:hover {background-color: #ddd; color: black;}
 
 /*#posTab { left:250px;}*/
-/*colonne
+/*colonne*/
 .column { float: left; padding: 10px;}
 .left { width: 25%;}
 .right { width: 75%;}
