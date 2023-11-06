@@ -9,7 +9,7 @@ table, th, td { border:1px solid black; border-collapse:collapse; font-family:Ve
 
 /*classi per ridimensionare le immagini*/
 .flex {max-width: 12%}
-/*.flex1 {max-width: 50%; align:center}*/
+.flex1 {max-width: 50%; align:center}
 .flex2 {max-width: 20%; align:center}
 .flex3 {max-width: 45%; align:center}
 
