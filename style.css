@@ -22,6 +22,6 @@ table, th, td { border:1px solid black; border-collapse:collapse; font-family:Ti
 /* cambia colore parole, hover per quando metto il cursore del mouse sopra */
 .topnav a:hover {background-color: #ddd; color: black;}
 
-.colonna-dx { float:right; width:20% px;}
-.colonna-sx { float:left; width:20% px;}
-.colonna-centrosx {float:left; width:60% px;}
+#colonna-dx { float:right; width:20% px;}
+#colonna-sx { float:left; width:20% px;}
+#colonna-centrosx {float:left; width:60% px;}
